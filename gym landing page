@@ -163,7 +163,7 @@
         </div>
     </header>
     <div class="container">
-        <h1>Join the best Gym of Jabalpur Now!!!</h1>
+        <h1>Join the best Gym of town Now!!!</h1>
         <form action="noaction.php">
             <div class="form-group">
                 <input type="text" name="" placeholder="Enter your name" id="">
